@@ -1,7 +1,7 @@
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
+      - title: "topics1"
         url: /docs/topics1/
-      - title: "Structure"
+      - title: "topics2"
         url: /docs/topics2/
